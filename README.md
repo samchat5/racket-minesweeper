@@ -8,6 +8,6 @@ Where size is the size of the square board and mines is the number of mines.
 
 # Controls
 
-To play, all you need is the mouse. Racket unfortunately only recognizes one type of mouse input (a click) so the typical minesweeper controls are impossible. To get around this, we have a status on the side showing the current mode you are in (whether you are revealing squares/mines or flagging them). To toggle, all you have to do is click the status and switch back whenever you want to.
+To play, all you need is the mouse and the spacebar. Racket unfortunately only recognizes one type of mouse input (a click) so the typical minesweeper controls are impossible. To get around this, we have a status on the side showing the current mode you are in (whether you are revealing squares/mines or flagging them). To toggle, all you have to do is press space and switch back whenever you want to.
 
 Have fun!
